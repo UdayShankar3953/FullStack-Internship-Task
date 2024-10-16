@@ -1,5 +1,6 @@
 .home-container {
     padding-bottom: 60px; /* To prevent overlap with footer */
+    padding-top: 60px;
   }
   
   .indicator-box {
