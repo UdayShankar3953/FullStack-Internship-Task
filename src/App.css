@@ -1,0 +1,119 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.nav_bar {
+  background-color: #000000; /* Dark gray background */
+  padding: 10px; /* Padding for the navbar */
+  display: flex; /* Use flexbox for layout */
+  justify-content: space-between; /* Space between elements */
+  align-items: center; /* Center items vertically */
+  position: relative; /* Allows absolute positioning of the title */
+  flex-wrap: nowrap; /* Prevent wrapping of items */
+}
+
+.navbar-title {
+  color: white; /* White color for the company name */
+  font-size: 1.5rem; /* Font size for the company name */
+  flex-shrink: 0; /* Prevent shrinking of the title */
+  margin-right: 10px; /* Add margin between the title and score */
+  white-space: nowrap; /* Prevent the title from breaking into multiple lines */
+}
+
+/* Navbar Score Container */
+.navbar-score-container {
+  display: flex; /* Keep items in a row */
+  align-items: center; /* Center items vertically */
+  flex-shrink: 0; /* Prevent the container from shrinking */
+}
+
+.navbar-score-box,
+.navbar-money-box {
+  background-color: #4a4a5e;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin-left: 10px;
+  color: #fff;
+  white-space: nowrap; /* Prevent the text from wrapping */
+}
+
+.navbar-profile {
+  margin-left: 10px;
+  width: 40px; /* Adjust profile icon size */
+  height: 40px; /* Adjust profile icon size */
+  flex-shrink: 0; /* Prevent the icon from shrinking */
+}
+/* Bottom Navigation */
+.bottom-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #000000; /* Different color for footer nav */
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+}
+
+.bottom-nav-item {
+  color: #999;
+}
+
+.bottom-nav-item.active {
+  color: #fff;
+}
+
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .nav_bar {
+    flex-wrap: nowrap; /* Ensure items don't wrap */
+    justify-content: flex-start; /* Align items to the left */
+  }
+
+  .navbar-title {
+    font-size: 1.2rem; /* Adjust font size for smaller screens */
+    white-space: nowrap; /* Keep title on one line */
+    flex-shrink: 0; /* Prevent shrinking */
+  }
+
+  .navbar-score-container {
+    margin-left: auto; /* Push the score and profile to the right */
+    flex-shrink: 0; /* Prevent shrinking */
+  }
+}
