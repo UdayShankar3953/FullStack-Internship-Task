@@ -43,6 +43,4 @@ To run the project locally:
 
 You can view the live demo of the project here: [https://taskplanet-uday.netlify.app](https://taskplanet-uday.netlify.app)
 
-## How to Contribute
 
-Feel free to fork this repository and submit a pull request if you have any suggestions for further UI improvements.
