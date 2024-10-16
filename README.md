@@ -43,4 +43,39 @@ To run the project locally:
 
 You can view the live demo of the project here: [https://taskplanet-uday.netlify.app](https://taskplanet-uday.netlify.app)
 
+## Screenshots
+
+### Laptop Version
+- **Leaderboard**:
+  
+  ![Laptop Version 1](#laptop-version-1-link)
+
+- **Leaderboard-User**:
+  
+  ![Laptop Version 2](#laptop-version-2-link)
+
+- **Social Media Task Design (Home Page)**:
+  
+  ![Laptop Version 3](#laptop-version-3-link)
+
+- **Social Media Task Design (Home Page)**:
+  
+  ![Laptop Version 4](#laptop-version-4-link)
+
+### Mobile Version
+- **Leaderboard**:
+  
+  ![Mobile Version 1](#mobile-version-1-link)
+
+- **Leaderboard-User**:
+  
+  ![Mobile Version 2](#mobile-version-2-link)
+
+- **Social Media Task Design (Home Page)**:
+  
+  ![Mobile Version 3](#mobile-version-3-link)
+
+- **Social Media Task Design (Home Page)**:
+  
+  ![Mobile Version 4](#mobile-version-4-link)
 
