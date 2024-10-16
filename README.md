@@ -48,34 +48,34 @@ You can view the live demo of the project here: [https://taskplanet-uday.netlify
 ### Laptop Version
 - **Leaderboard**:
   
-  ![Laptop Version 1](#laptop-version-1-link)
+  ![Laptop Version 1](img/m-3.png)
 
 - **Leaderboard-User**:
   
-  ![Laptop Version 2](#laptop-version-2-link)
+  ![Laptop Version 2](img/m-4.png)
 
 - **Social Media Task Design (Home Page)**:
   
-  ![Laptop Version 3](#laptop-version-3-link)
+  ![Laptop Version 3](img/m-1.png)
 
 - **Social Media Task Design (Home Page)**:
   
-  ![Laptop Version 4](#laptop-version-4-link)
+  ![Laptop Version 4](img/m-2.png)
 
 ### Mobile Version
 - **Leaderboard**:
   
-  ![Mobile Version 1](#mobile-version-1-link)
+  ![Mobile Version 1](img/L-3.png)
 
 - **Leaderboard-User**:
   
-  ![Mobile Version 2](#mobile-version-2-link)
+  ![Mobile Version 2](img/L-4.png)
 
 - **Social Media Task Design (Home Page)**:
   
-  ![Mobile Version 3](#mobile-version-3-link)
+  ![Mobile Version 3](img/L-1.png)
 
 - **Social Media Task Design (Home Page)**:
   
-  ![Mobile Version 4](#mobile-version-4-link)
+  ![Mobile Version 4](img/L-2.png)
 
