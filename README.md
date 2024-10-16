@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Task Planet UI Improvements - ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
+This project is part of an internship task where I was required to improve the UI design of two sections of the Task Planet app. I chose to work on the **Leaderboard** and **Social Media Task Design (Home Page)** sections, as per the provided instructions.
 
-## Available Scripts
+You can view the deployed version of the project on Netlify [here]([#netlify-link](https://taskplanet-uday.netlify.app)).
 
-In the project directory, you can run:
+## Sections Improved
 
-### `npm start`
+### 1. Leaderboard
+- **Before**: [Screenshot 1](https://prnt.sc/8kuDJzjjz7Dh), [Screenshot 2](https://prnt.sc/xGJozhEaR-Ht)
+- **Improvements**: The Leaderboard section UI has been enhanced to improve visual clarity, consistency, and user experience. Key enhancements include better alignment, color schemes, and spacing to make the leaderboard easier to read and navigate.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 2. Social Media Task Design (Home Page)
+- **Before**: [Screenshot](https://prnt.sc/tnY_iT85a7Qf)
+- **Improvements**: The home page for the social media task section now includes modern design elements like enhanced typography, intuitive layout, and optimized color contrast to improve readability and engagement.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation and Setup
 
-### `npm test`
+To run the project locally:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/UdayShankar3953/FullStack-Internship-Task.git
+    ```
+2. Install the necessary dependencies:
+    ```bash
+    npm install
+    ```
+3. Start the development server:
+    ```bash
+    npm start
+    ```
+4. Open your browser and navigate to `http://localhost:3000` to view the project.
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **ReactJS**: Used for building the user interface.
+- **CSS**: For styling and layout enhancements.
+- **Netlify**: For hosting the final version of the project.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Live Demo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+You can view the live demo of the project here: [https://taskplanet-uday.netlify.app](https://taskplanet-uday.netlify.app)
 
-### `npm run eject`
+## How to Contribute
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to fork this repository and submit a pull request if you have any suggestions for further UI improvements.
